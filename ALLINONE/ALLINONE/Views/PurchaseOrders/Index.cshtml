@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ALLINONE.DATA.PurchaseOrder>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Porequisition)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PoItemId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PoDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Terms)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Porequisition)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PoItemId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PoDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Terms)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PoId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PoId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,24 @@
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.dll.config
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.pdb
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.DATA.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.DATA.pdb
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.csprojResolveAssemblyReference.cache
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.pdb
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.dll.config
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.SERVICE.pdb
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.DATA.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\ALLINONE.DATA.pdb
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.csprojResolveAssemblyReference.cache
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.dll
+C:\Users\sishi_000\Desktop\Dut 2016\The final Project\Last prototype\For all in one project\all in one project 3\ALLINONE\ALLINONE.SERVICE\obj\Debug\ALLINONE.SERVICE.pdb
