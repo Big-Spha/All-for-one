@@ -6,7 +6,7 @@ namespace ALLINONE.DATA
     
  public   class Item
     {
-        public string comment { get; set; }
+        
         public int ItemId { get; set; }
 
         [Required]
